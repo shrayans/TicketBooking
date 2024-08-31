@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo2\\TicketBooking\\MovieBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\moviemanagementservice\\controllers\\moviemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\moviemanagementservice\\controllers\\moviemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\theatremanagementservice\\theatremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\theatremanagementservice\\theatremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\bookingservice\\controllers\\bookingservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\bookingservice\\controllers\\bookingservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\bookingservice\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\bookingservice\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\bookingservice\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\bookingservice\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\contracts\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\contracts\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\contracts\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\contracts\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\contracts\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\contracts\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\moviemanagementservice\\moviemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\moviemanagementservice\\moviemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\contracts\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\contracts\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\theatremanagementservice\\itheatremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\theatremanagementservice\\itheatremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\theatremanagementservice\\controllers\\theatremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\theatremanagementservice\\controllers\\theatremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|c:\\repo2\\ticketbooking\\moviebooking\\moviebooking\\services\\moviemanagementservice\\imoviemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531A49AE-F030-4A6A-B892-BDFEA108B96D}|MovieBooking\\MovieBooking.csproj|solutionrelative:moviebooking\\services\\moviemanagementservice\\imoviemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieManagementController.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\MovieManagementService\\Controllers\\MovieManagementController.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\MovieManagementService\\Controllers\\MovieManagementController.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\MovieManagementService\\Controllers\\MovieManagementController.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\MovieManagementService\\Controllers\\MovieManagementController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:41:47.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingServiceController.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\BookingService\\Controllers\\BookingServiceController.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\BookingService\\Controllers\\BookingServiceController.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\BookingService\\Controllers\\BookingServiceController.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\BookingService\\Controllers\\BookingServiceController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:23:47.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Theatre.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Theatre.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Contracts\\Theatre.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Theatre.cs",
+              "RelativeToolTip": "MovieBooking\\Contracts\\Theatre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:57:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\BookingService\\BookingService.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\BookingService\\BookingService.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\BookingService\\BookingService.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\BookingService\\BookingService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:40:55.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\BookingService\\IBookingService.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\BookingService\\IBookingService.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\BookingService\\IBookingService.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\BookingService\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:40:49.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheatreManagementService.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\TheatreManagementService\\TheatreManagementService.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\TheatreManagementService\\TheatreManagementService.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\TheatreManagementService\\TheatreManagementService.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\TheatreManagementService\\TheatreManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:12:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Screen.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Contracts\\Screen.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Screen.cs",
+              "RelativeToolTip": "MovieBooking\\Contracts\\Screen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:21:19.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Seat.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Contracts\\Seat.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Seat.cs",
+              "RelativeToolTip": "MovieBooking\\Contracts\\Seat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:21:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieManagementService.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\MovieManagementService\\MovieManagementService.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\MovieManagementService\\MovieManagementService.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\MovieManagementService\\MovieManagementService.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\MovieManagementService\\MovieManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:30:59.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Show.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Contracts\\Show.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Contracts\\Show.cs",
+              "RelativeToolTip": "MovieBooking\\Contracts\\Show.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:01:28.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITheatreManagementService.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\TheatreManagementService\\ITheatreManagementService.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\TheatreManagementService\\ITheatreManagementService.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\TheatreManagementService\\ITheatreManagementService.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\TheatreManagementService\\ITheatreManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:08:35.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TheatreManagementController.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\TheatreManagementService\\Controllers\\TheatreManagementController.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\TheatreManagementService\\Controllers\\TheatreManagementController.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\TheatreManagementService\\Controllers\\TheatreManagementController.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\TheatreManagementService\\Controllers\\TheatreManagementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:11:53.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMovieManagementService.cs",
+              "DocumentMoniker": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\MovieManagementService\\IMovieManagementService.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\Services\\MovieManagementService\\IMovieManagementService.cs",
+              "ToolTip": "C:\\Repo2\\TicketBooking\\MovieBooking\\MovieBooking\\Services\\MovieManagementService\\IMovieManagementService.cs",
+              "RelativeToolTip": "MovieBooking\\Services\\MovieManagementService\\IMovieManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:08:22.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
